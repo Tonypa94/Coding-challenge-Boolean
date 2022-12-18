@@ -1,0 +1,79 @@
+body{
+text-align: center;
+margin-top: 20px;
+background-image: url(ei.jpg);
+background-size: cover;
+line-height: 20px;
+}
+.INIZIO{
+  background-color: rgba(00,00,00,0.5);
+  width: 700px;
+  margin: auto;
+  border-radius: 10px;
+  padding: 50px;
+}
+
+
+#titolo{
+  color: lime;
+  font-size: 25px;
+
+}
+
+
+img{
+  width: 160px;
+}
+#navigatore{
+  background-color: lime;
+  padding: 5px;
+  margin-bottom: 15px;
+  margin-top: 5px;
+
+
+}
+nav  button {
+  font-size: 10px
+}
+.primo{
+  text-align: left;
+  color: white;
+}
+.step {
+  font-size: 18px;
+  font-family: Sans-Serif;
+
+
+}
+div .primo > input {
+  width: 10px;
+
+}
+
+
+div.primo{
+  font-size: 13px
+}
+
+
+.barra{
+  background-color: #FFA53D;
+  padding: 10px;
+  display: inline-block;
+  width: 200px;
+  border-radius: 5px;
+}
+.barradue{
+background-color: #00a334;
+padding: 10px;
+display: inline-block;
+width: 400px;
+border-radius: 5px;
+}
+.barratre{
+  background-color: #b32428;
+  padding: 10px;
+  display: inline-block;
+  width: 80px;
+  border-radius: 5px;
+}
